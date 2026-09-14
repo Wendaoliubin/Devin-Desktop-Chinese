@@ -1,5 +1,5 @@
 # Devin Desktop Chinese
-Devin（Windsurf）Desktop（客户端） 汉化补充与说明。
+Devin Desktop（Windsurf）汉化补充与说明
 
 本仓库提供 windsurf-better.js 脚本，用于为 Devin Desktop/ Windsurf Desktop补充界面汉化，并支持一键部署或手动替换。
 
